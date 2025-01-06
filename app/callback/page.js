@@ -3,7 +3,7 @@
 import { useEffect } from "react";
 import { useRouter } from "next/navigation";
 import Cookies from "js-cookie";
-import Sdk from "casdoor-js-sdk";
+import Sdk from "sso-js-sdk";
 import sdkConfig from "@/app/conf";
 
 export const AuthCallback = () => {
