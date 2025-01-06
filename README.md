@@ -1,4 +1,4 @@
 nextjs-auth
 =======
 
-A Next.js example for Casdoor SSO.
+A Next.js SDK for SSO Imigrasi.
