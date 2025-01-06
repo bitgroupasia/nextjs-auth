@@ -1,1 +1,4 @@
-# sso-imigrasi-nextjs-sdk
+nextjs-auth
+=======
+
+A Next.js example for Casdoor SSO.
