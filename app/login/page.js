@@ -1,6 +1,6 @@
 "use client";
 import { useEffect } from "react";
-import Sdk from "casdoor-js-sdk";
+import Sdk from "sso-js-sdk";
 import sdkConfig from "@/app/conf";
 
 const Login = () => {
